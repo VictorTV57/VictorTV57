@@ -9,7 +9,7 @@
 <br>
 
 <p>
-  <a href="https://victortv57.github.io"><img src="https://img.shields.io/badge/Portfolio-victortv57.github.io-1F4FE0?style=flat-square" alt="Portfolio"></a>
+  <a href="https://victorjost.github.io/"><img src="https://img.shields.io/static/v1?label=Portfolio&message=https%3A%2F%2Fvictorjost.github.io&color=1F4FE0&style=flat-square" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/victor-jost"><img src="https://img.shields.io/badge/LinkedIn-victor--jost-0E1A2B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:victor.jost@epitech.eu"><img src="https://img.shields.io/badge/E--mail-victor.jost%40epitech.eu-0E1A2B?style=flat-square&logo=maildotru&logoColor=white" alt="E-mail"></a>
 </p>
@@ -68,8 +68,8 @@ Régler l'heure à 18 h avec le module **Hora** (dans **Mundus**) :
 
 Mes projets, mon parcours et mes compétences sont détaillés sur mon site.
 
-<a href="https://victortv57.github.io">
-  <img src="assets/portfolio.svg" alt="Mon portfolio : victortv57.github.io" width="100%">
+<a href="https://victorjost.github.io/">
+  <img src="assets/portfolio.svg" alt="Mon portfolio : https://victorjost.github.io" width="100%">
 </a>
 
 <img src="assets/section.svg" width="100%" alt="">
